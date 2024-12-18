@@ -1,4 +1,6 @@
-# GO programming: Creating an application that organizes your files into different folders based on each file extension.
+# GO programming [Thinik like a programmer]
+
+# Creating an application that organizes your files into different folders based on each file extension.
 
 # Remember! You can improve upon this app.
 
