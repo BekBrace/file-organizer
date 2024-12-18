@@ -155,8 +155,6 @@ if err != nil {
 
 ```
 
----
-
 ## 6. Running the Program
 
 1. Build and run the program:
@@ -173,11 +171,3 @@ if err != nil {
 1. Add support for more file types.
 2. Implement error logging.
 3. Create a configuration file for custom categories.
-
----
-
-## 8. Conclusion
-
-**Closing Lines:**
-And that’s it! You’ve built a simple yet powerful File Organizer CLI in Go. This project is a great foundation for exploring more advanced Go features, like concurrency or file metadata handling. If you found this tutorial helpful, don’t forget to like, comment, and subscribe. Let me know in the comments how you plan to enhance this tool or what other projects you’d like to see. Thanks for watching, and I’ll see you in the next one!
-
