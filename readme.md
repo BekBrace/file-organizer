@@ -1,4 +1,4 @@
-# GO programming [Thinik like a programmer]
+# GO programming [Think like a programmer]
 
 # Creating an application that organizes your files into different folders based on each file extension.
 
